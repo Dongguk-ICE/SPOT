@@ -4,18 +4,22 @@
 
 <br>
 
-## 👨🏼‍💻 프로젝트 소개
-
-<img src="docs\7.jpg" width="800" height="300">
-<img src="docs\8.jpg" width="800" height="300">
-<br></br>
-
 ## 🧑‍🤝‍🧑 팀 구성
 
 | <img src="https://avatars.githubusercontent.com/u/133879283?v=4" width="140"> | <img src="https://avatars.githubusercontent.com/u/34148750?v=4" width="140"> | <img src="https://avatars.githubusercontent.com/u/96588957?v=4" width="140"> | <img src="https://avatars.githubusercontent.com/u/79458446?v=4" width="140"> | <img src="https://avatars.githubusercontent.com/u/43908014?v=4" width="140"> |
 | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |                     [민장규](https://github.com/Jang99u)                      |                     [박세호](https://github.com/sayyyho)                     |                     [박채현](https://github.com/lwittyl)                     |                  [최정흠](https://github.com/JeongHeumChoi)                  |                    [최지안](https://github.com/choijian)                     |
 |                                    백엔드                                     |                                  프론트엔드                                  |                                  프론트엔드                                  |                                    백엔드                                    |                                  디자인, AI                                  |
+
+<br></br>
+
+## 👨🏼‍💻 프로젝트 소개
+
+<img src="docs\24.jpg" width="800" height="450">
+
+- 서울시가 설치한 **공유 킥보드 주차구역 정보를 제공**
+- AI를 이용하여 **킥보드 불법 주차를 식별**
+- 사용자의 현위치 기반 **날씨 정보를 제공**
 
 <br></br>
 
@@ -58,16 +62,19 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Azure%20CustomVision-2088FF?style=for-the-badge&logo=azure%20customvision&logoColor=white">
 </div>
+<br>
 
 ## 🐧 개발 배경
 
-- 서울비전 2030 中 글로벌 선도도시(스마트 입체교통도시 구축), 안심도시(스마트 에코도시) 과업을 달성하기 위해 **적극적인 공유 킥보드 이용 유도**
+- **서울비전 2030 中** 글로벌 선도도시(스마트 입체교통도시 구축), 안심도시(스마트 에코도시) 과업을 달성하기 위해 **적극적인 공유 킥보드 이용 유도**
 - 길거리에 무단으로 방치되어 보행자의 안전을 위협하는 **킥보드 불법 주정차 문제 해결 방안 제시**
+  <br>
 
 ## 🎨 화면 구성
 
-<img src="docs\22.jpg" width="800" height="300">
-<img src="docs\23.jpg" width="800" height="300">
+<img src="docs\22.jpg" width="800" height="450">
+<img src="docs\23.jpg" width="800" height="450">
+<br>
 
 ## 🐳기대효과 및 활용방안
 
