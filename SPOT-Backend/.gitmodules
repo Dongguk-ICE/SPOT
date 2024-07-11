@@ -1,0 +1,4 @@
+[submodule "spot-server-properties"]
+	path = spot-server-properties
+	url = https://github.com/JeongHeumChoi/spot-server-properties.git
+	branch = main
